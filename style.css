@@ -1,0 +1,65 @@
+.header {
+  background-color: #121212;
+  color: white;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-shadow: 0px 5px 10px black;
+}
+
+h3 {
+  text-shadow: 0px 5px 10px black;
+}
+
+body {
+  background-color: #000000;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+
+.textHolder {
+  background-color: #121212;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 0px 5px 10px black;
+  padding: 20px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #121212;
+  box-shadow: 0px 5px 10px black;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-shadow: 0px 5px 10px black;
+}
+
+.navbar a:hover {
+  background-color: #b6867c;
+  color: black;
+  transition-duration: 0.4s;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: #121212;
+  box-shadow: 10px 10px 50px black;
+  color: white;
+  text-align: center;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
